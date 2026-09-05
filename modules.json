@@ -22194,9 +22194,9 @@
     "_searchKeywords": "天猫养车 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
-    "name": "TmallGenie",
+    "name": "天猫精灵",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partT/TmallGenie.srmodule",
-    "description": "TmallGenie 模块信息获取失败，请自行判断该模块的作用和有效性。",
+    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
@@ -22207,9 +22207,9 @@
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartT%2FTmallGenie.srmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "tmallgenie tmallgenie 模块信息获取失败，请自行判断该模块的作用和有效性。 fmz200 wool_scripts"
+    "_searchKeywords": "天猫精灵 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
     "name": "同程旅行",
