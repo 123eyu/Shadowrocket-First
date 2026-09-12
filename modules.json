@@ -11144,7 +11144,7 @@
   {
     "name": "eleme",
     "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/Applet/Wechat/E/%E9%A5%BF%E4%BA%86%E4%B9%88/eleme.sgmodule",
-    "description": "> 饿了么<微信小程序> - ELEME",
+    "description": "eleme 模块信息获取失败，请自行判断该模块的作用和有效性。",
     "author": {
       "name": "zirawell",
       "url": "https://github.com/zirawell",
@@ -11155,9 +11155,9 @@
     "sourceName": "R-Store",
     "sourceURL": "https://github.com/zirawell/R-Store",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApplet%2FWechat%2FE%2F%25E9%25A5%25BF%25E4%25BA%2586%25E4%25B9%2588%2Feleme.sgmodule",
-    "isDubious": false,
+    "isDubious": true,
     "fromMyRepo": false,
-    "_searchKeywords": "eleme > 饿了么<微信小程序> - eleme zirawell r-store"
+    "_searchKeywords": "eleme eleme 模块信息获取失败，请自行判断该模块的作用和有效性。 zirawell r-store"
   },
   {
     "name": "fcbox",
@@ -11522,7 +11522,7 @@
   {
     "name": "jiediankeji",
     "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/Applet/Wechat/J/%E8%A1%97%E7%94%B5/jiediankeji.sgmodule",
-    "description": "> 街电<微信小程序> - JIEDIANKEJI",
+    "description": "jiediankeji 模块信息获取失败，请自行判断该模块的作用和有效性。",
     "author": {
       "name": "zirawell",
       "url": "https://github.com/zirawell",
@@ -11533,9 +11533,9 @@
     "sourceName": "R-Store",
     "sourceURL": "https://github.com/zirawell/R-Store",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApplet%2FWechat%2FJ%2F%25E8%25A1%2597%25E7%2594%25B5%2Fjiediankeji.sgmodule",
-    "isDubious": false,
+    "isDubious": true,
     "fromMyRepo": false,
-    "_searchKeywords": "jiediankeji > 街电<微信小程序> - jiediankeji zirawell r-store"
+    "_searchKeywords": "jiediankeji jiediankeji 模块信息获取失败，请自行判断该模块的作用和有效性。 zirawell r-store"
   },
   {
     "name": "gemdale",
@@ -12314,7 +12314,7 @@
   {
     "name": "t3go",
     "rawURL": "https://raw.githubusercontent.com/zirawell/R-Store/main/Rule/Surge/Adblock/Applet/Wechat/T/T3%E5%87%BA%E8%A1%8C/t3go.sgmodule",
-    "description": "> T3出行<微信小程序> - T3GO",
+    "description": "t3go 模块信息获取失败，请自行判断该模块的作用和有效性。",
     "author": {
       "name": "zirawell",
       "url": "https://github.com/zirawell",
@@ -12325,9 +12325,9 @@
     "sourceName": "R-Store",
     "sourceURL": "https://github.com/zirawell/R-Store",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Fzirawell%2FR-Store%2Fmain%2FRule%2FSurge%2FAdblock%2FApplet%2FWechat%2FT%2FT3%25E5%2587%25BA%25E8%25A1%258C%2Ft3go.sgmodule",
-    "isDubious": false,
+    "isDubious": true,
     "fromMyRepo": false,
-    "_searchKeywords": "t3go > t3出行<微信小程序> - t3go zirawell r-store"
+    "_searchKeywords": "t3go t3go 模块信息获取失败，请自行判断该模块的作用和有效性。 zirawell r-store"
   },
   {
     "name": "tflj",
@@ -24642,9 +24642,9 @@
     "_searchKeywords": "艺龙旅行网 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
-    "name": "印象笔记",
+    "name": "Evernote",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partY/Evernote.srmodule",
-    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
+    "description": "Evernote 模块信息获取失败，请自行判断该模块的作用和有效性。",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
@@ -24655,9 +24655,9 @@
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartY%2FEvernote.srmodule",
-    "isDubious": false,
+    "isDubious": true,
     "fromMyRepo": false,
-    "_searchKeywords": "印象笔记 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
+    "_searchKeywords": "evernote evernote 模块信息获取失败，请自行判断该模块的作用和有效性。 fmz200 wool_scripts"
   },
   {
     "name": "萤石",
