@@ -288,9 +288,9 @@
     "_searchKeywords": "skip proxy and real-ip lists 跳过部分应用的代理检测 mieqq mieqq"
   },
   {
-    "name": "🅶🅸🆃🅷🅴🅻🅿 功能增强",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/GitHubPro.sgmodule",
-    "description": "GitHub 综合增强模块，整合私库访问、语言限制解除及 iOS 页面防自动缩放功能",
+    "name": "🅶🅸🆃🅷🅴🅻🅿 资源加速",
+    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/GitHubCDN.sgmodule",
+    "description": "将 GitHub RAW 资源重定向至国内可用的镜像资源站。编辑参数可自定义切换 CDN 节点",
     "author": {
       "name": "LOWERTOP",
       "url": "https://github.com/LOWERTOP",
@@ -300,28 +300,10 @@
     "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_00.png",
     "sourceName": "Shadowrocket-First",
     "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FGitHubPro.sgmodule",
+    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FGitHubCDN.sgmodule",
     "isDubious": false,
     "fromMyRepo": true,
-    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 功能增强 github 综合增强模块，整合私库访问、语言限制解除及 ios 页面防自动缩放功能 lowertop shadowrocket-first"
-  },
-  {
-    "name": "🅶🅸🆃🅷🅴🅻🅿 禁止缩放",
-    "rawURL": "https://raw.githubusercontent.com/LOWERTOP/Shadowrocket-First/main/GitHub-iOS-No-Zoom.sgmodule",
-    "description": "防止 GitHub 输入框与代码编辑器触发 iOS 自动缩放，同时避免影响 GitHub 非仓库页面",
-    "author": {
-      "name": "LOWERTOP",
-      "url": "https://github.com/LOWERTOP",
-      "username": "LOWERTOP"
-    },
-    "authorAvatar": "https://github.com/LOWERTOP.png?size=64",
-    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/github_00.png",
-    "sourceName": "Shadowrocket-First",
-    "sourceURL": "https://github.com/LOWERTOP/Shadowrocket-First",
-    "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2FLOWERTOP%2FShadowrocket-First%2Fmain%2FGitHub-iOS-No-Zoom.sgmodule",
-    "isDubious": false,
-    "fromMyRepo": true,
-    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 禁止缩放 防止 github 输入框与代码编辑器触发 ios 自动缩放，同时避免影响 github 非仓库页面 lowertop shadowrocket-first"
+    "_searchKeywords": "🅶🅸🆃🅷🅴🅻🅿 资源加速 将 github raw 资源重定向至国内可用的镜像资源站。编辑参数可自定义切换 cdn 节点 lowertop shadowrocket-first"
   },
   {
     "name": "🅶🅸🆃🅷🅴🅻🅿 私库助手",
