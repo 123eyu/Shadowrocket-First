@@ -15212,7 +15212,7 @@
   {
     "name": "CSDN",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partC/CSDN.srmodule",
-    "description": "CSDN",
+    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
@@ -15223,9 +15223,9 @@
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartC%2FCSDN.srmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "csdn csdn fmz200 wool_scripts"
+    "_searchKeywords": "csdn 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
     "name": "财经杂志",
@@ -15300,9 +15300,9 @@
     "_searchKeywords": "彩云天气 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
-    "name": "Caixin",
+    "name": "财新网",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partC/Caixin.srmodule",
-    "description": "Caixin",
+    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
@@ -15313,9 +15313,9 @@
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartC%2FCaixin.srmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "caixin caixin fmz200 wool_scripts"
+    "_searchKeywords": "财新网 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
     "name": "Camera360",
@@ -17658,22 +17658,22 @@
     "_searchKeywords": "花生地铁 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
-    "name": "HuaShengTong",
+    "name": "华盛通",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partH/HuaShengTong.srmodule",
-    "description": "HuaShengTong",
+    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
       "username": "fmz200"
     },
     "authorAvatar": "https://github.com/fmz200.png?size=64",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif",
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartH%2FHuaShengTong.srmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "huashengtong huashengtong fmz200 wool_scripts"
+    "_searchKeywords": "华盛通 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
     "name": "花小猪",
@@ -21510,9 +21510,9 @@
     "_searchKeywords": "神马 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
-    "name": "ShenZhenTong",
+    "name": "深圳通",
     "rawURL": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Shadowrocket/module/split/partS/ShenZhenTong.srmodule",
-    "description": "ShenZhenTong",
+    "description": "某些APP要清除缓存或者重新安装拦截广告才会生效！",
     "author": {
       "name": "fmz200",
       "url": "https://github.com/fmz200",
@@ -21523,9 +21523,9 @@
     "sourceName": "wool_scripts",
     "sourceURL": "https://github.com/fmz200/wool_scripts",
     "installURL": "shadowrocket://install?module=https%3A%2F%2Fraw.githubusercontent.com%2Ffmz200%2Fwool_scripts%2Fmain%2FShadowrocket%2Fmodule%2Fsplit%2FpartS%2FShenZhenTong.srmodule",
-    "isDubious": true,
+    "isDubious": false,
     "fromMyRepo": false,
-    "_searchKeywords": "shenzhentong shenzhentong fmz200 wool_scripts"
+    "_searchKeywords": "深圳通 某些app要清除缓存或者重新安装拦截广告才会生效！ fmz200 wool_scripts"
   },
   {
     "name": "神舟汽车",
